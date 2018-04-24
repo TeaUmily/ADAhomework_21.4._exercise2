@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple calculator</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="textview_result">Result</string>
+    <string name="invalidInput_divisor_zero_toast_msg">Divisor cannot be zero!</string>
+    <string name="invalidInput_empty_field_toast_msg">Please enter both numbers</string>
+</resources>

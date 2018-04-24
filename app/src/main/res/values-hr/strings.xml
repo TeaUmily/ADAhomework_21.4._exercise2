@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jednostavni kalkulator</string>
+    <string name="number1">prvi broj</string>
+    <string name="number2">drugi broj</string>
+    <string name="textview_result">Rezultat</string>
+    <string name="invalidInput_divisor_zero_toast_msg">Djelitelj ne može biti nula!</string>
+    <string name="invalidInput_empty_field_toast_msg">Molimo unesite oba broja</string>
+</resources>
